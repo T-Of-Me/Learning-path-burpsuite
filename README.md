@@ -6,7 +6,7 @@
 ![image](https://hackmd.io/_uploads/HyRnTHjpWg.png)
 ## 📌 Giới thiệuuuuu
 
-Web Security Academy Learning Paths là lộ trình học giúp bạn nắm vững bảo mật web một cách bài bản, từ cơ bản đến nâng cao.
+[Web Security Academy Learning Paths là lộ trình học giúp bạn nắm vững bảo mật web một cách bài bản, từ cơ bản đến nâng cao](https://portswigger.net/web-security/learning-paths).
 
 - Học có định hướng (không lan man)
 - Có thực hành lab
