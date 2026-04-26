@@ -3,8 +3,8 @@
 > A structured roadmap to master Web Security from beginner to advanced.
 
 ---
-
-## 📌 Giới thiệu
+![image](https://hackmd.io/_uploads/HyRnTHjpWg.png)
+## 📌 Giới thiệuuuuu
 
 Web Security Academy Learning Paths là lộ trình học giúp bạn nắm vững bảo mật web một cách bài bản, từ cơ bản đến nâng cao.
 
